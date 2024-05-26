@@ -14,7 +14,7 @@ public String getName(){             // using of getmethod for return the menuit
 }
 
 public double getprice(){
-    return price
+    return price;
 
 }
 
