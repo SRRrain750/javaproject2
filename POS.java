@@ -1,4 +1,4 @@
- public class MenuItem{
+public class MenuItem{
      private String name;
      private double price;
 
@@ -21,7 +21,7 @@ public double getprice(){
 //Override
 
 public String toString(){
-  return name+"-$"+String.format("%.2f,price);
+  return name+"-$"+String.format("%.2f",price);
    }
 
 }
