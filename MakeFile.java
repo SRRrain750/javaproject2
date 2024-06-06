@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Makeile{
+class MakeFile{
 
 public static void main(String[]args)throws IOException{
 
